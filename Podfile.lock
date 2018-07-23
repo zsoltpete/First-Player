@@ -1,0 +1,25 @@
+PODS:
+  - CYExtensions (0.1.4)
+  - SwiftLint (0.26.0)
+  - UICircularProgressRing (3.0.0)
+
+DEPENDENCIES:
+  - CYExtensions
+  - SwiftLint
+  - UICircularProgressRing
+
+SPEC REPOS:
+  "git@bitbucket.org:team-codeyard/podyard.git":
+    - CYExtensions
+  https://github.com/cocoapods/specs.git:
+    - SwiftLint
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  CYExtensions: 1c7f3c2377189a19da1269884873709918a6278a
+  SwiftLint: f6b83e8d95ee1e91e11932d843af4fdcbf3fc764
+  UICircularProgressRing: 3b472692ffca84060fd444ea5c0b387161067c54
+
+PODFILE CHECKSUM: 46892afefdf99e2922dd1725e59167a55d36b8d5
+
+COCOAPODS: 1.5.3
